@@ -18,11 +18,8 @@
       "id": 1,
       "asset-tag": "HP Proobook",
       "UUID": "12345678"
-    },
-    {
-      "asset-tag": "Lenovo",
-      "UUID": "9832498234",
-      "id": 2
+      "battery":"",
+      "Disk":""
     }
   ],
   "profile": {
